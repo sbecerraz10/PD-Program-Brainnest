@@ -20,7 +20,7 @@ from datetime import datetime
 
 # OpenWeatherMap API endpoint and API key
 url = "http://api.openweathermap.org/data/2.5/weather"
-api_key = "c0887ee8e5cdccfcb7c614caf7323c83"
+api_key = ""
 
 
 def get_weather(city):
