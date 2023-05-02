@@ -1,0 +1,11 @@
+Regrex
+1. Given a text string that contains phone numbers in the format of (XXX) XXX-XXXX, write a regular expression to extract all the phone numbers from the string.
+2. A program that extracts URLs
+3. Given a text string that contains words separated by whitespace, write a regular expression to count the number of words in the string.
+
+Tuples and lists
+4. Write a list comprehension to flatten a nested list.
+
+5. Write a list comprehension to generate a list of all possible pairs of numbers from two given lists.
+
+6. Write a list comprehension to find all the prime numbers between 1 and 100.

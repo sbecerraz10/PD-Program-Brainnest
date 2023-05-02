@@ -1,0 +1,22 @@
+Topic - Generator
+1. write a function that yields the first 10 prime numbers
+
+2. Write a generator function that reads a text file, 
+line by line, and returns lines that contain a specific word.
+
+3. Write a generator function that takes a list of strings as input and generates all possible combinations of those strings. 
+For example, if the input list is ['a', 'b', 'c'], the generator should generate the combinations 'a', 'b', 'c', 'ab', 'ac', 'bc', and 'abc'.
+
+DECORATORS
+
+4. A decorator that repeats a function call a specified number of times
+def my_function():
+    print("Hello, world!")
+
+my_function()
+
+5. A decorator that logs the arguments and return value of a function
+add(3, 4)
+output:
+the value of arges(3,4) and kwrgs{ } 
+sum = 7

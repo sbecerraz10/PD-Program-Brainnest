@@ -1,0 +1,18 @@
+DATACLASS
+1. Create a dataclass called Student with the following attributes: name (str), id (int), grades (list of floats).
+ Write a method called average_grade that returns the average of the student's grades. 
+Instantiate an object of Student with a name of "Alice", id of 12345, and grades of [3.5, 4.0, 3.7], and print out their average grade.
+
+2. Create a dataclass called Book with the following attributes: title (str), author (str), year (int), pages (int), rating (float), publisher (str), and genres (list of strings). 
+Write a method called has_genre that takes a genre string as input and returns a boolean indicating whether the book belongs to that genre. Write a second method called to_dict 
+that returns a dictionary of the book's attributes. Instantiate several objects of Book with different attributes and test your has_genre and to_dict methods.
+
+------------------------------------
+JSON
+3. Parsing and manipulating nested JSON data:
+    Given a JSON file containing data about students and their grades, write a Python program to do the following:
+
+    Parse the JSON data
+    Calculate the average grade for each student
+    Add a new key-value pair to each student's data indicating whether their average grade is above or below the class average
+

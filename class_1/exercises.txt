@@ -1,0 +1,16 @@
+1. Write a program to prompt the user for hours and rate per
+hour to compute gross pay.
+Enter Hours: 35
+Enter Rate: 2.75
+Pay: 96.25
+
+2. Write a program which prompts the user for a Celsius temperature, convert the temperature to Fahrenheit, and print out the
+converted temperature.
+
+fahrenheit = celsius * 1.8 + 32
+
+3. Rewrite your pay computation to give the employee 1.5
+times the hourly rate for hours worked above 40 hours.
+Enter Hours: 45
+Enter Rate: 10
+Pay: 475.0

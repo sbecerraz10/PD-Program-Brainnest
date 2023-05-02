@@ -1,0 +1,71 @@
+type() --> Gives you the type of the variable
+id() --> gives you the memory location of a variable
+
+-Example of printing with commas
+name = "Thomas"
+age = 27
+print("My name is", name, "and I am", age)
+
+- Another Example of printing
+print(f"My name is {name}.")
+
+-Lists
+
+-List of list (Matrix)
+
+-Math
+Quotient
+quotient = 7 // 3
+print(quotient) --> 2
+
+Remainder
+x = 7
+remainder = x % 2
+if reminder == 0:
+    print(x, "is even")
+else:
+    print(x, "is odd")
+
+-Input
+inp = input("Enter name:\n")
+print("Hi", inp)
+
+prompt = "Enter your name: "
+inp = input(prompt)
+
+-Comments
+#Single line Comments
+'''
+This is a
+multi-line
+Comment
+'''
+
+def add(x, y):
+    """
+    This function takes two numbers as input and returns their sum.
+    """
+    return x + y
+
+ERROR HANDLE
+- Try and Except
+    try:
+        pass
+    except:
+        pass
+    finally:
+        pass
+- Raise an exception
+    raise Exception()
+
+
+Sites to practice coding
+https://www.codewars.com/
+https://checkio.org/
+
+Books
+Automate the boring stuff with python 
+https://www.dropbox.com/s/hteoz6acsd5xk5t/Automate%20The%20Boring%20Stuff%20with%20Python.pdf?dl=0
+https://www.dropbox.com/s/kw6zhnqwlrbdbb7/Mastering%20Python.pdf?dl=0
+https://www.dropbox.com/s/n3vcxxkfq4cn9yf/Python%20One-Liners.pdf?dl=0
+
